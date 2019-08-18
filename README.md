@@ -1,2 +1,2 @@
 # mints.js
-Javascritp micro-framework for mount html pages.
+Javascritpt micro-framework for mount html pages.
